@@ -11,6 +11,7 @@ def find_max_value(array)
     end
     binding.pry
     ctr+=1
+    
   end
   
   return max
