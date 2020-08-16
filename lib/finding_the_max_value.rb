@@ -1,4 +1,4 @@
-include "pry"
+require "pry"
 def find_max_value(array)
 
   ctr = 0 
