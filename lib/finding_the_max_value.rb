@@ -11,5 +11,6 @@ def find_max_value(array)
     
     ctr+=1
   end
-  max
+  
+  return max
 end
