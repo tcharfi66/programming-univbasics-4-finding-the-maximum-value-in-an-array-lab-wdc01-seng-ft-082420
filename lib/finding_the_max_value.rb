@@ -9,7 +9,7 @@ def find_max_value(array)
     if(array[ctr] > max)
         max= array[ctr]
     end
-    binding.pry
+    
     ctr+=1
     
   end
